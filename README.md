@@ -29,7 +29,8 @@ brew tap osx-cross/avr
 brew install avr-gcc avr-binutils avrdude tio
 ```
 
-On Linux, TODO
+On Linux, install `avr-gcc`, `acr-binutils`, `avrdude`, and `tio` (optional:
+only needed if you want serial monitor) on your distribution of choice.
 
 ## Usage
 
